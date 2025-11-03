@@ -8,6 +8,7 @@ import logging
 from drone_controller import DroneController
 from config import Config
 
+
 # Setup logging
 logging.basicConfig(
     level=logging.INFO,
